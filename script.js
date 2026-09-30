@@ -12,5 +12,6 @@ botoesCurtir. forEach(function(botaoCurtir){
                 curtir = false;
             }
 
-    }
+}
+
 });
